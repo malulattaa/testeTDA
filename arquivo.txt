@@ -1,2 +1,4 @@
 Adicionando conteúdo
 Vamos aprender merges de branches
+Criando uma nova branch para realizar o merge
+Conflitos devem ser resolvidos manualmente
